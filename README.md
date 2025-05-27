@@ -6,3 +6,5 @@ In August 2024, I was honored with the Devang Mehta IT Award, recognizing my aca
 
 
 I am excited to apply my skills and knowledge to real-world technology challenges and contribute meaningfully to the tech community.
+
+My name is Jash Pandya.
