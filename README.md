@@ -1,4 +1,4 @@
-# 👨‍💻 Jash Pandya | MERN Stack Developer
+w# 👨‍💻 Jash Pandya | MERN Stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=flat&logo=linkedin)](https://linkedin.com/in/jash-pandya)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-%23181717?style=flat&logo=github)](https://github.com/jashPandyaa)
@@ -30,9 +30,9 @@
 
 | Project | Description | Tech Stack | Live Demo |
 |---------|-------------|------------|-----------|
-| [Wanderlust](https://github.com/jashPandyaa/wanderlust-) | Full-stack travel listing platform | Node, Express, MongoDB, EJS | [Live](https://wanderlust-lwvu.onrender.com) |
-| [AtmosVue Weather](https://github.com/jashPandyaa/AtmosVue-Weather) | Real-time weather dashboard | React, Material UI | [Live](https://atmosvue-weather.vercel.app) |
-| [Todo-App-React](https://github.com/jashPandyaa/Todo-App-React) | Task management app | React, Vite | [Live](https://todo-app-react-jash.vercel.app) |
+| [Wanderlust](https://github.com/jashPandyaa/wanderlust-) | Full-stack travel listing platform | Node, Express, MongoDB, EJS | [Live](https://wanderlust-lwvu.onrender.com/) |
+| [AtmosVue Weather](https://github.com/jashPandyaa/AtmosVue-Weather) | Real-time weather dashboard | React, Material UI | [Live](https://atmos-vue-weather.vercel.app/) |
+| [Todo-App-React](https://github.com/jashPandyaa/Todo-App-React) | Task management app | React, Vite | [Live](https://todo-app-react-by-pandya.vercel.app/) |
 
 ## 📈 GitHub Stats
 
