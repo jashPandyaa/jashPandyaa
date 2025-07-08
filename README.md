@@ -49,4 +49,4 @@
 ## 📫 Let's Collaborate!
 - 📧 **Email**: jashpandyaa@gmail.com
 - 💼 **LinkedIn**: [jash-pandya](https://linkedin.com/in/jash-pandya)
-- 📸 **Instagram**: [@yourhandle](https://instagram.com/jash.pandyaa)
+- 📸 **Instagram**: [@jash.pandyaa](https://instagram.com/jash.pandyaa)
