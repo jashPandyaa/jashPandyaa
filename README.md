@@ -1,4 +1,4 @@
-w# 👨‍💻 Jash Pandya | MERN Stack Developer
+# 👨‍💻 Jash Pandya | MERN Stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=flat&logo=linkedin)](https://linkedin.com/in/jash-pandya)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-%23181717?style=flat&logo=github)](https://github.com/jashPandyaa)
