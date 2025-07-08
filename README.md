@@ -34,13 +34,13 @@
 | [AtmosVue Weather](https://github.com/jashPandyaa/AtmosVue-Weather) | Real-time weather dashboard | React, Material UI | [Live](https://atmos-vue-weather.vercel.app/) |
 | [Todo-App-React](https://github.com/jashPandyaa/Todo-App-React) | Task management app | React, Vite | [Live](https://todo-app-react-by-pandya.vercel.app/) |
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jashPandyaa&show_icons=true&theme=radical&hide_border=true)
+![Jash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jashPandyaa&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jashPandyaa&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jashPandyaa&layout=compact&theme=radical&hide_border=true&exclude_repo=repo1,repo2)
 
-![Contribution Graph](https://ghchart.rshah.org/jashPandyaa)
+![GitHub Streak](https://streak-stats.demolab.com?user=jashPandyaa&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 ## 🎤 Community Participation
 - **Attendee**: Flutter Seminar (2025)
