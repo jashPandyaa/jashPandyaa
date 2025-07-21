@@ -40,7 +40,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jashPandyaa&layout=compact&theme=radical&hide_border=true&exclude_repo=repo1,repo2)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jashPandyaa&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)
+
 
 ## 🎤 Community Participation
 - **Attendee**: Flutter Seminar (2025)
