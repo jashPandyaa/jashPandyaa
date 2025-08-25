@@ -47,6 +47,6 @@
 - **Participant**: Cloud Community Days (2025)
 
 ## 📫 Let's Collaborate!
-- 📧 **Email**: jashpandyaa@gmail.com
-- 💼 **LinkedIn**: [jash-pandya](https://linkedin.com/in/jash-pandya)
-- 📸 **Instagram**: [@jash.pandyaa](https://instagram.com/jash.pandyaa)
+- 📧 **Email** : jashpandyaa@gmail.com
+- 💼 **LinkedIn** : [jash-pandya](https://linkedin.com/in/jash-pandya)
+- 📸 **Instagram** : [@jash.pandyaa](https://instagram.com/jash.pandyaa)
