@@ -43,8 +43,8 @@
 
 
 ## 🎤 Community Participation
-- **Attendee**: Flutter Seminar (2025)
-- **Participant**: Cloud Community Days (2025)
+- **Attendee** : Flutter Seminar (2025)
+- **Participant** : Cloud Community Days (2025)
 
 ## 📫 Let's Collaborate!
 - 📧 **Email** : jashpandyaa@gmail.com
